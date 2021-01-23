@@ -59,3 +59,5 @@ function vowelsAndConsonants(s) {
     }
 }
 ```
+
+TODO: Tried using ES6 filter, but as it's built more for intrinsic `return`, not sure how to get it working properly in `console.log`.
