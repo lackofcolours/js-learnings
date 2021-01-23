@@ -46,7 +46,7 @@ Using for loop twice
 ```js
 function vowelsAndConsonants(s) {  
     // const textArray = s.split("");
-    const textArray = [...s];
+    const textArray = [...s]; // ES6 spread operator
     const vowels = "[aeiou]";
     
     // Loop twice with match
