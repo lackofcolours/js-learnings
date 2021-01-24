@@ -3,8 +3,8 @@
 ## Task
 
 1. Each alphabet is printed on a new line.
-2. Then the vowels are printed in the same order as they appeared in .
-3. Then the consonants are printed in the same order as they appeared in .
+2. Then the vowels are printed in the same order as they appeared in.
+3. Then the consonants are printed in the same order as they appeared in.
 
 ### Input
 ```
